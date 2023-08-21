@@ -21,8 +21,8 @@
 <h3 align="center">🚀 Skills & Interests</h3>
 <p align="center">
   💻 Web Development | 🌐 HTML, CSS, JavaScript<br>
-  🎨 UI/UX Design | ⚙️ Problem Solving<br>
-  📱 Mobile App Development | 🧠 Machine Learning Basics<br>
+
+  ⚙️ Problem Solving | 🧠 Machine Learning Basics<br>
 </p>
 
 <!-- Contact Information -->
