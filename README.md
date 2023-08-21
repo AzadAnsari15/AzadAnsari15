@@ -20,9 +20,10 @@
 <!-- Your Interests and Skills -->
 <h3 align="center">🚀 Skills & Interests</h3>
 <p align="center">
-  💻 Web Development | 🌐 HTML, CSS, JavaScript<br>
-
+<center>
+    💻 Web Development | 🌐 HTML, CSS, JavaScript<br>
   ⚙️ Problem Solving | 🧠 Machine Learning Basics<br>
+</center>
 </p>
 
 <!-- Contact Information -->
