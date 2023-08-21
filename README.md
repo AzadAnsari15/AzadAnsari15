@@ -21,7 +21,7 @@
 <h3 align="center">🚀 Skills & Interests</h3>
 <p align="center">
   💻 Web Development | 🌐 HTML, CSS, JavaScript<br>
-  🐍 Python Programming | 🌟 .NET Framework<br>
+  🐍 Python Programming | 🌟 React<br>
   ⚙️ Problem Solving | 🧠 Machine Learning Basics<br>
 </p>
 
