@@ -20,11 +20,11 @@
 <!-- Your Interests and Skills -->
 <h3 align="center">🚀 Skills & Interests</h3>
 <p align="center">
-<center>
-    💻 Web Development | 🌐 HTML, CSS, JavaScript<br>
+  💻 Web Development | 🌐 HTML, CSS, JavaScript<br>
+  🐍 Python Programming | 🌟 .NET Framework<br>
   ⚙️ Problem Solving | 🧠 Machine Learning Basics<br>
-</center>
 </p>
+
 
 <!-- Contact Information -->
 <h3 align="center">📫 Get in Touch</h3>
